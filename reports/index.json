@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260904-205645-e80w",
+      "title": "Treezlebub",
+      "commanders": [
+        "Treezlebub"
+      ],
+      "guild": {
+        "id": "9B8CE75B-3EF8-F011-BB16-027E23B0622D",
+        "name": "Tactical Aggression Lethal Nature",
+        "tag": "TALN"
+      },
+      "dateStart": "2026-09-04T18:56:45.000Z",
+      "dateEnd": "2026-09-04T19:28:52.825Z",
+      "dateLabel": "4.9.2026, 20:56:45 - 4.9.2026, 21:28:52",
+      "url": "https://MrReallyYo.github.io/WvWLogs/?report=20260904-205645-e80w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 37
+      }
+    }
+  ]
+}
