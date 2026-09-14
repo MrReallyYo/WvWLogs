@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260913-215749-iskl",
+      "title": "Bëëzlëbub",
+      "commanders": [
+        "Bëëzlëbub"
+      ],
+      "guild": {
+        "id": "9B8CE75B-3EF8-F011-BB16-027E23B0622D",
+        "name": "Tactical Aggression Lethal Nature",
+        "tag": "TALN"
+      },
+      "dateStart": "2026-09-13T19:57:49.000Z",
+      "dateEnd": "2026-09-13T20:41:35.331Z",
+      "dateLabel": "13.9.2026, 21:57:49 - 13.9.2026, 22:41:35",
+      "url": "https://MrReallyYo.github.io/WvWLogs/?report=20260913-215749-iskl",
+      "summary": {
+        "borderlandsPct": 0.2571428571428571,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260904-205432-vb5w",
       "title": "Treezlebub",
       "commanders": [
