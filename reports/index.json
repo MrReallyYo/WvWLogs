@@ -1,8 +1,47 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261007-203311-wxix",
+      "title": "Aliya Carwyn",
+      "commanders": [
+        "Aliya Carwyn"
+      ],
+      "guild": {
+        "id": "CB604CF1-BD3C-E711-80D3-E4115BD7B405",
+        "name": "Third Triumvirate",
+        "tag": "TT"
+      },
+      "dateStart": "2026-10-07T18:33:11.000Z",
+      "dateEnd": "2026-10-07T19:09:32.929Z",
+      "dateLabel": "7.10.2026, 20:33:11 - 7.10.2026, 21:09:32",
+      "url": "https://MrReallyYo.github.io/WvWLogs/?report=20261007-203311-wxix",
+      "publishedBy": "MrReallyYo",
+      "summary": {
+        "borderlandsPct": 0.9615384615384616,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 23
+      }
+    },
     {
       "id": "20260913-215749-iskl",
       "title": "Bëëzlëbub",
